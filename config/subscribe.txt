@@ -14,4 +14,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/kilvn/iptv/master/iptv+.m3u
 https://raw.githubusercontent.com/kilvn/iptv/master/iptv.m3u
 https://raw.githubusercontent.com/kilvn/iptv/master/live-china.m3u
- https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/master/bbxx.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/master/bbxx.txt
