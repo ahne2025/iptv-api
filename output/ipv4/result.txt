@@ -1,15 +1,16 @@
 🕘️更新时间,#genre#
-2026-08-02 07:18:32,http://home.scanflove.com:7788/rtp/235.254.198.51:1480
+2026-08-02 19:45:44,http://hiliu.myds.me:18088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
-CCTV-1,http://home.scanflove.com:7788/rtp/235.254.198.51:1480
 CCTV-1,http://hiliu.myds.me:18088/rtp/239.254.96.96:8550
 CCTV-1,http://pplee.vicp.net:4022/rtp/233.18.204.168:5140
 CCTV-1,http://lysj.aylzline.top:8899/rtp/225.1.2.47:10276
-CCTV-1,http://home.amucn.net:8800/rtp/239.49.8.19:9614
+CCTV-1,http://home.scanflove.com:7788/rtp/235.254.198.51:1480
 CCTV-1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 CCTV-1,http://www.negative.top:50000/rtp/233.50.201.118:5140
+CCTV-1,http://home.amucn.net:8800/rtp/239.49.8.19:9614
 CCTV-2,http://111.9.163.109:55555/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://123.163.114.121:9901/tsfile/live/0002_1.m3u8
 CCTV-2,http://pplee.vicp.net:4022/rtp/233.18.204.68:5140
 CCTV-2,http://lysj.aylzline.top:8899/rtp/225.1.2.78:10462
 CCTV-3,http://111.9.163.109:55555/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -18,63 +19,71 @@ CCTV-3,http://hiliu.myds.me:18088/rtp/239.69.1.122:10370
 CCTV-3,http://lysj.aylzline.top:8899/rtp/225.1.2.141:10864
 CCTV-3,http://nas.lyfkai.cn:19999/rtp/239.69.1.122:10370
 CCTV-4,http://111.9.163.109:55555/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://pplee.vicp.net:4022/rtp/233.18.204.70:5140
 CCTV-4,http://hiliu.myds.me:18088/rtp/239.69.1.138:10466
-CCTV-4,http://home.amucn.net:8800/rtp/239.49.8.51:9806
+CCTV-4,http://pplee.vicp.net:4022/rtp/233.18.204.70:5140
 CCTV-4,http://nas.lyfkai.cn:19999/rtp/239.69.1.138:10466
+CCTV-4,http://home.amucn.net:8800/rtp/239.49.8.51:9806
 CCTV-5,http://111.9.163.109:55555/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 CCTV-5,http://pplee.vicp.net:4022/rtp/233.18.204.71:5140
-CCTV-5,http://home.scanflove.com:7788/rtp/235.254.198.54:1492
 CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-5,http://111.196.129.242:20000/rtp/239.3.1.173:8001
-CCTV-5,http://home.amucn.net:8800/rtp/239.49.8.75:8000
+CCTV-5,http://home.scanflove.com:7788/rtp/235.254.198.54:1492
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 CCTV-5,http://nas.lyfkai.cn:19999/rtp/239.69.1.123:10376
+CCTV-5,http://home.amucn.net:8800/rtp/239.49.8.75:8000
+CCTV-5,http://111.196.129.242:20000/rtp/239.3.1.173:8001
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-5+,http://pplee.vicp.net:4022/rtp/233.18.204.67:5140
 CCTV-5+,http://yanshifen.top:8889/rtp/239.77.0.87:5146
 CCTV-5+,http://lysj.aylzline.top:8899/rtp/225.1.2.48:10282
 CCTV-5+,http://nas.lyfkai.cn:19999/rtp/239.254.96.234:9484
 CCTV-5+,http://home.amucn.net:8800/rtp/239.49.8.18:9610
 CCTV-6,http://home.scanflove.com:7788/rtp/235.254.198.55:1496
-CCTV-6,http://pplee.vicp.net:4022/rtp/233.18.204.72:5140
 CCTV-6,http://hiliu.myds.me:18088/rtp/239.69.1.124:10382
 CCTV-6,http://home.amucn.net:8800/rtp/239.49.8.76:8000
-CCTV-7,http://www.sclvip.top:5566/rtp/239.49.0.126:8000
+CCTV-6,http://pplee.vicp.net:4022/rtp/233.18.204.72:5140
+CCTV-6,http://115.48.160.81:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://pplee.vicp.net:4022/rtp/233.18.204.73:5140
+CCTV-7,http://www.sclvip.top:5566/rtp/239.49.0.126:8000
 CCTV-7,http://home.amucn.net:8800/rtp/239.49.0.126:8000
+CCTV-7,http://115.48.160.81:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://txycdn2.video.qq.com/1370436702.m3u8?time=1785622955&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIE015wlC1POcngWAdpc8JkegqIbFf9nNcYNGt3ZmiTF9EFvCCPwI2lJOYPSTa-fRo4sBcG30QVHNkQH14YducKoheO7um6jxPZx5ko0oOh1_rGYoaKNdZ4Dt_4DtocHQeG243vdilWG5LRWUNsb7-FdHh4y0EZRpYzTKNT22v-IKKaOy036ihn7_dz8B8rljxLqDMhmCKn1AWE41JrffTSXx0NEgGpvsHachAEkJSdZCtv_k4LgxXvqGze6DyBnF7Qv-DrQbub_VhNMhgIDnezDu93_6zVTWU49RaEAy-ywMQl102Ck7cHTIphAu70PceEJJrdxQnSzVdZf8H1kJzDIXpfeP6fJvXDTjbJphN-BSw0FmTt0P9_vYdqQYwc9ied9Ggam4a8Zzsx4bGt_f1mYjPnvEqniSYh0i8EqC8u3r-hNvnxBSZmyCDVf_6SfTPt0AluAoOOtM61Z-UBM1Uk_4jvzCMOcWcPMyNK_b8d3TOBfbHdp76f9aW5FGSVS7o3SR5viGVfBQY3mpwkih1QdBYDPmLumlwwhKDBH8ZIOssN-j&drmtype=0
 CCTV-8,http://www.sclvip.top:5566/rtp/239.49.8.77:8000
 CCTV-8,http://pplee.vicp.net:4022/rtp/233.18.204.74:5140
 CCTV-8,http://hiliu.myds.me:18088/rtp/239.69.1.125:10388
-CCTV-8,http://nas.lyfkai.cn:19999/rtp/239.69.1.125:10388
 CCTV-8,http://home.amucn.net:8800/rtp/239.49.8.77:8000
-CCTV-9,http://www.sclvip.top:5566/rtp/239.49.8.53:9814
-CCTV-9,http://hiliu.myds.me:18088/rtp/239.69.1.104:10262
+CCTV-8,http://nas.lyfkai.cn:19999/rtp/239.69.1.125:10388
+CCTV-8,http://101.66.194.121:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://pplee.vicp.net:4022/rtp/233.18.204.75:5140
+CCTV-9,http://hiliu.myds.me:18088/rtp/239.69.1.104:10262
+CCTV-9,http://play.kankanlive.com/live/1698423397390920.m3u8
+CCTV-9,http://www.sclvip.top:5566/rtp/239.49.8.53:9814
 CCTV-9,http://nas.lyfkai.cn:19999/rtp/239.69.1.104:10262
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://123.163.114.121:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://pplee.vicp.net:4022/rtp/233.18.204.76:5140
 CCTV-10,http://hiliu.myds.me:18088/rtp/239.69.1.105:10268
 CCTV-10,http://nas.lyfkai.cn:19999/rtp/239.69.1.105:10268
+CCTV-10,http://101.66.194.121:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://lysj.aylzline.top:8899/rtp/225.1.2.220:11434
 CCTV-11,http://nas.lyfkai.cn:19999/rtp/239.69.1.154:10560
 CCTV-12,http://pplee.vicp.net:4022/rtp/233.18.204.78:5140
 CCTV-12,http://lysj.aylzline.top:8899/rtp/225.1.2.82:10486
 CCTV-12,http://nas.lyfkai.cn:19999/rtp/239.69.1.106:10274
 CCTV-12,http://home.amucn.net:8800/rtp/239.49.8.55:9822
-CCTV-13,http://pplee.vicp.net:4022/rtp/233.18.204.79:5140
-CCTV-13,http://home.amucn.net:8800/rtp/239.49.8.109:8000
 CCTV-13,http://lysj.aylzline.top:8899/rtp/225.1.2.74:11584
+CCTV-13,http://home.amucn.net:8800/rtp/239.49.8.109:8000
+CCTV-13,http://101.66.194.121:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-14,http://txycdn4.video.qq.com/1755770102.m3u8?time=1785622608&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIPgzm4S9cj3lXXAO8zSt-2BRamzY1RcJNOhWW0o_tVbMECfJwORUsorMfjDELFcR-5cBcGdjht4YDj471Q1TE07O2zHUIb2zniBUaijRo6FUzTZiU_4AHA6pjXC2DKwA3lggjcDJTrMZQ8peHqi9JZRqpx9kedewfxhSTHh4NnDBxqLnZ-JvvAhlKIBas1j8LqUAuqgJ5oM7g5FnytILftDNJW5GrSocrGKLdOUrgfQuELbZMSP8JN5rWFAI9AAnWoJjY5NKuRG62SuWce96BjfIDv1sC9V-yf0lVgh1qBRMq4aRWjqEIO7tbfrmXlXfRRmM4nMACnKGUGBqZj-p6TcOMcHJnWgd_SBTR5yb-uGyZWmGs1krqVvB0rBr1sQe5c1Xw1SVboqzhPvhOjZczP4IrIyMZY3la1gkQZRp9HpgcRWd1UNjQpZkkQYh9Qt7eZhM3ZKn6JI03eqE5hzn3y88vCR9-GA3lSGT9NAZb9DKO44Y6jb_HRtmy9tBcu5rGPBFF4Lifpd2M8_q_yw0elasebVjsljuvEz-bAL2BMEJ8lcw&drmtype=0
+CCTV-14,http://pplee.vicp.net:4022/rtp/233.18.204.80:5140
 CCTV-14,http://www.sclvip.top:5566/rtp/239.49.8.56:9826
 CCTV-14,http://lysj.aylzline.top:8899/rtp/225.1.2.83:10492
-CCTV-14,http://pplee.vicp.net:4022/rtp/233.18.204.80:5140
-CCTV-14,http://home.amucn.net:8800/rtp/239.49.8.56:9826
 CCTV-14,http://nas.lyfkai.cn:19999/rtp/239.69.1.107:10280
+CCTV-14,http://home.amucn.net:8800/rtp/239.49.8.56:9826
 CCTV-15,http://pplee.vicp.net:4022/rtp/233.18.204.81:5140
 CCTV-15,http://nas.lyfkai.cn:19999/rtp/239.69.1.155:10566
 CCTV-16,http://pplee.vicp.net:4022/rtp/233.18.204.114:5140
-CCTV-16,http://nas.lyfkai.cn:19999/rtp/239.69.1.247:11124
 CCTV-16,http://home.amucn.net:8800/rtp/239.49.8.31:8000
+CCTV-16,http://nas.lyfkai.cn:19999/rtp/239.69.1.247:11124
 CCTV-17,https://live.264788.xyz/channel/cctv17
 CCTV-17,http://lysj.aylzline.top:8899/rtp/225.1.2.53:10312
 CCTV-17,http://pplee.vicp.net:4022/rtp/233.18.204.83:5140
@@ -95,6 +104,7 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 📡卫视频道,#genre#
 广东卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.140:8914
 广东卫视,http://home.amucn.net:8800/rtp/239.49.8.13:9422
+广东卫视,http://101.66.194.121:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://hiliu.myds.me:18088/rtp/239.254.96.143:8932
 浙江卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.143:8932
 湖南卫视,http://home.amucn.net:8800/rtp/239.49.8.12:9418
@@ -102,20 +112,28 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 北京卫视,http://pplee.vicp.net:4022/rtp/233.18.204.210:5140
 北京卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.141:8920
 北京卫视,http://home.amucn.net:8800/rtp/239.49.8.11:9414
-湖北卫视,http://home.amucn.net:8800/rtp/239.49.8.8:9632
+北京卫视,http://101.66.194.121:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.115:8664
+湖北卫视,http://home.amucn.net:8800/rtp/239.49.8.8:9632
+湖北卫视,http://125.43.249.115:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://101.66.194.121:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://home.amucn.net:8800/rtp/239.49.8.57:9830
-东方卫视,http://home.amucn.net:8800/rtp/239.49.8.17:9606
 东方卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.142:8926
+东方卫视,http://home.amucn.net:8800/rtp/239.49.8.17:9606
 东南卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.108:10286
+东南卫视,http://125.43.249.115:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://hiliu.myds.me:18088/rtp/239.69.1.191:10788
 广西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.191:10788
+广西卫视,http://101.66.194.121:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
+贵州卫视,http://125.43.249.115:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://home.amucn.net:8800/rtp/239.49.8.83:8000
-河北卫视,http://home.amucn.net:8800/rtp/239.49.8.114:8000
 河北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.113:9616
-江苏卫视,http://home.amucn.net:8800/rtp/239.49.8.16:9602
+河北卫视,http://125.43.249.115:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://101.66.194.121:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.144:8938
+江苏卫视,http://home.amucn.net:8800/rtp/239.49.8.16:9602
+江苏卫视,http://101.66.194.121:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
@@ -124,14 +142,16 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k
-四川卫视,http://yanshifen.top:8889/rtp/239.77.0.159:5146
 四川卫视,http://hiliu.myds.me:18088/rtp/239.69.1.169:10650
+四川卫视,http://yanshifen.top:8889/rtp/239.77.0.159:5146
 四川卫视,http://home.amucn.net:8800/rtp/239.49.8.110:8000
 深圳卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.137:8896
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
+云南卫视,http://101.66.194.121:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://125.43.249.115:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 广东珠江,rtmp://116.63.53.136/live/gdzj
@@ -141,13 +161,13 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 茂名公共,http://www.maomizi.cn:9523/udp/239.77.0.205:5146
 
 ☘️浙江频道,#genre#
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
-海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
 海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
@@ -166,7 +186,6 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️重庆频道,#genre#
-璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -188,7 +207,6 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 涟水综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
-镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 ☘️辽宁频道,#genre#
 朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8
@@ -197,7 +215,6 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 
 ☘️湖北频道,#genre#
-武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 ☘️广西频道,#genre#
 乐业综合,rtmp://live.gxrb.com.cn/gx/leye
@@ -224,7 +241,6 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 都安综合,rtmp://live.gxxw.cn/gx/duan
 靖西综合,rtmp://live.gxrb.com.cn/gx/jingxi
 靖西综合,rtmp://live.gxxw.cn/gx/jingxi
-北海新闻,http://45.192.97.170:8880/play/2390.m3u8
 
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
@@ -232,8 +248,8 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 天津都市,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv4
 天津都市,http://38.75.136.137:98/gslb/dsdqpub/tjtv4.m3u8?auth=testpub
 天津都市,http://ak.cj022.com:10080/hls/5/index.m3u8
-天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 天津新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv1
+天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 天津新闻,http://ak.cj022.com:10080/hls/2/index.m3u8
 天津文艺,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv2
 天津文艺,http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub
@@ -279,7 +295,6 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 贵州移动电视,http://47.108.20.161:8866/guizhou/guizhou.php?id=gzyd
 
 ☘️甘肃频道,#genre#
-甘肃文化,http://61.178.227.57:9901/tsfile/live/1008_1.m3u8
 嘉峪关综合,rtsp://180.95.143.19/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://116.176.26.18/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://60.13.39.19/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
@@ -291,8 +306,9 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 平凉新闻综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
+甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,rtmp://play.kankanlive.com/live/1680577080200944
 秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
@@ -305,6 +321,7 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
+可克达拉综合,rtmp://liveout.btzx.com.cn/62ds9e/4nxdih
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 石河子教育,rtmp://124.88.144.73:1935/live/jiaoyu
@@ -314,9 +331,6 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 山东文旅,http://218.56.123.244:85/tsfile/live/1002_1.m3u8?key=txiptv
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 山东文旅,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/70048_Uni.sdp
-济南都市,http://vapi.91kds.cc/live1/sdjntv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=sdjnds
-济南少儿,http://vapi.91kds.cc/live1/sdjntv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=sdjnse
-济南鲁中,http://vapi.91kds.cc/live1/sdjntv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=sdlwtv1
 青州综合,http://1.94.31.214/php/qilu.php?id=wfqzzh
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
@@ -381,8 +395,8 @@ CETV-4,http://pplee.vicp.net:4022/rtp/233.18.204.111:5140
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
-翡翠台,http://qingyi.7766.org:9004/0.ts
 翡翠台,http://124.244.129.167:9004/0.ts
+翡翠台,http://qingyi.7766.org:9004/0.ts
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
@@ -400,12 +414,9 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
-金鹰卡通,http://125.43.249.115:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 游戏风云,http://pplee.vicp.net:4022/rtp/233.18.204.44:5140
